@@ -5,4 +5,4 @@
  3. Offline Mode: Store recent exchange rates for use without the internet.
  4. Smart Alerts: Notify users when a currency hits a certain value.
  5. Historical Trends: Show charts of past exchange rates.
-
+ 6. Dark Mode & Themes: Let users customize the app’s look
